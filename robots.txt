@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calcmaster.co/sitemap.xml
+favicon: https://calcmaster.co/assets/icon.svg
+assets/icon.svg
